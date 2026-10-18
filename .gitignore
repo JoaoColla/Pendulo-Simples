@@ -1,0 +1,27 @@
+# Arquivos de dados gerados no rastreamento
+dados_pendulo.csv
+*.csv
+
+# Vídeos e mídias (arquivos grandes)
+*.mov
+*.mp4
+*.avi
+*.mkv
+
+# Python e Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos temporários do VS Code / Code Runner
+tempCodeRunnerFile.py
+.vscode/
+.idea/
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
