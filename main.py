@@ -2,7 +2,7 @@ import cv2
 import pandas as pd  
 
 # Caminho do video
-cap = cv2.VideoCapture(r"C:/Users/joaod/MINHAS PASTAS/UTFPR/2 Periodo/Fisica-02/pendulo/video/video_pendulo.mov")
+cap = cv2.VideoCapture(r"INSIRA O CAMINHO AQUI")
 
 fps = cap.get(cv2.CAP_PROP_FPS)
 
