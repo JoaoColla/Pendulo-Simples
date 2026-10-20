@@ -4,6 +4,8 @@ Trabalho prático desenvolvido para a disciplina de **Física Teórica 2** do cu
 
 O projeto utiliza visão computacional (**OpenCV**) para rastrear a posição de um pêndulo simples em vídeo e ajustar os dados experimentais ao modelo teórico do **Oscilador Harmônico Amortecido (OHA)** utilizando **Python**, **SciPy** e **Matplotlib**.
 
+[Vídeo explicando o código](https://youtu.be/DjFqXHfSI78)
+
 ---
 
 ##  Contexto Acadêmico
